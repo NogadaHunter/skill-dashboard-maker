@@ -69,6 +69,8 @@ claude plugin install skill-dashboard-maker@peopleware-skill-dashboard
 
 만들어진 대시보드에서 스킬을 고르면 나오는 프롬프트를 **복사**해 대화창에 붙여 넣으면 돼요. 상황별 프롬프트 전체: [`docs/USAGE.md`](docs/USAGE.md)
 
+> 영어판: [skill-dashboard-maker-en](https://github.com/NogadaHunter/skill-dashboard-maker-en) — 화면과 설명이 모두 영어인 전 세계용 버전이에요.
+
 > [!NOTE]
 > 대시보드는 자동으로 바뀌지 않아요. 스킬을 추가·수정·삭제했으면 이전 대시보드를 첨부하고 "스킬 대시보드 갱신해줘"라고 요청하세요.
 
@@ -127,3 +129,5 @@ skill-dashboard-maker/
 ### English summary
 
 A Claude skill (and Claude Code plugin) that reads every skill registered in your Claude and turns them into a single, offline HTML **skill dashboard**: Korean names, one-line summaries, inputs and outputs, and copy-ready default and situational prompts for each skill, with search, 8 category filters, light/dark mode and mobile layout. Attach a previous dashboard to refresh only the skills that were added, changed or removed. Licensed under CC BY-NC-SA 4.0.
+
+**English edition:** [skill-dashboard-maker-en](https://github.com/NogadaHunter/skill-dashboard-maker-en) (English interface and instructions, MIT license)
