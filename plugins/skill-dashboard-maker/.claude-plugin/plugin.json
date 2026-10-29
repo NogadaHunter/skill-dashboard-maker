@@ -1,0 +1,13 @@
+{
+  "name": "skill-dashboard-maker",
+  "displayName": "스킬 대시보드 만들기",
+  "version": "1.0.1",
+  "description": "등록된 Claude 스킬을 모두 읽어 검색·카테고리 필터·기본/상황별 프롬프트 복사 기능이 있는 스킬 대시보드 HTML 한 장을 만들고, 이전 대시보드를 첨부하면 바뀐 스킬만 갱신해요.",
+  "author": {
+    "name": "피플웨어교육컨설팅그룹 · AI프롬프트연구소"
+  },
+  "homepage": "https://github.com/NogadaHunter/skill-dashboard-maker",
+  "repository": "https://github.com/NogadaHunter/skill-dashboard-maker",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": ["skills", "dashboard", "prompt", "스킬", "대시보드", "프롬프트", "korean"]
+}
